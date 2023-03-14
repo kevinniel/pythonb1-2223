@@ -16,6 +16,6 @@ Idem que TP2, mais enregistrer le tout dans un fichier .CSV (librairie)
 
 ## TP4
 
-Idem TP3, mais enregistrer en plus toutes les images dans un dossier au nom de la catégorie
+Idem TP3, mais enregistrer en plus toutes les images dans un dossier au nom de la catégorie (librairie "os" pour la création des dossiers)
 
 
